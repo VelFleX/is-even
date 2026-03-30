@@ -12,6 +12,22 @@ export function isEven(numberForCheckIsEvenOrNot: number): boolean {
     return true;
   } else if (numberForCheckIsEvenOrNot === 1) {
     return false;
+  } else if (numberForCheckIsEvenOrNot === 2) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 3) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 4) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 5) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 6) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 7) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 8) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 9) {
+    return false;
   } else {
     throw new Error("Can't check if number is even or not");
   }
