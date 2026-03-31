@@ -28,6 +28,26 @@ export function isEven(numberForCheckIsEvenOrNot: number): boolean {
     return true;
   } else if (numberForCheckIsEvenOrNot === 9) {
     return false;
+  } else if (numberForCheckIsEvenOrNot === 10) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 11) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 12) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 13) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 14) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 15) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 16) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 17) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 18) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 19) {
+    return false;
   } else {
     throw new Error("Can't check if number is even or not");
   }
