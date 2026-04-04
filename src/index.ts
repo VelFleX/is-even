@@ -90,6 +90,26 @@ export function isEven(numberForCheckIsEvenOrNot: number): boolean {
     return false;
   } else if (numberForCheckIsEvenOrNot === 40) {
     return true;
+  } else if (numberForCheckIsEvenOrNot === 41) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 42) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 43) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 44) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 45) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 46) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 47) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 48) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 49) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 50) {
+    return true;
   } else {
     throw new Error("Can't check if number is even or not");
   }
