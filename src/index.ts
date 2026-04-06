@@ -130,6 +130,86 @@ export function isEven(numberForCheckIsEvenOrNot: number): boolean {
     return false;
   } else if (numberForCheckIsEvenOrNot === 60) {
     return true;
+  } else if (numberForCheckIsEvenOrNot === 61) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 62) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 63) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 64) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 65) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 66) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 67) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 68) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 69) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 70) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 71) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 72) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 73) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 74) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 75) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 76) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 77) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 78) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 79) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 80) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 81) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 82) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 83) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 84) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 85) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 86) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 87) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 88) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 89) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 90) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 91) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 92) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 93) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 94) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 95) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 96) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 97) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 98) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 99) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 100) {
+    return true;
   } else {
     throw new Error("Can't check if number is even or not");
   }
