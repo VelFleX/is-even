@@ -4210,6 +4210,206 @@ export function isEven(numberForCheckIsEvenOrNot: number): boolean {
     return false;
   } else if (numberForCheckIsEvenOrNot === 2100) {
     return true;
+  } else if (numberForCheckIsEvenOrNot === 2101) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2102) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2103) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2104) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2105) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2106) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2107) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2108) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2109) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2110) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2111) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2112) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2113) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2114) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2115) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2116) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2117) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2118) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2119) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2120) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2121) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2122) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2123) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2124) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2125) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2126) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2127) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2128) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2129) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2130) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2131) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2132) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2133) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2134) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2135) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2136) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2137) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2138) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2139) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2140) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2141) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2142) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2143) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2144) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2145) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2146) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2147) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2148) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2149) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2150) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2151) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2152) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2153) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2154) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2155) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2156) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2157) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2158) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2159) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2160) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2161) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2162) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2163) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2164) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2165) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2166) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2167) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2168) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2169) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2170) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2171) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2172) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2173) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2174) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2175) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2176) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2177) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2178) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2179) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2180) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2181) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2182) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2183) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2184) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2185) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2186) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2187) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2188) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2189) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2190) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2191) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2192) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2193) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2194) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2195) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2196) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2197) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2198) {
+    return true;
+  } else if (numberForCheckIsEvenOrNot === 2199) {
+    return false;
+  } else if (numberForCheckIsEvenOrNot === 2200) {
+    return true;
   } else {
     throw new Error("Can't check if number is even or not");
   }
